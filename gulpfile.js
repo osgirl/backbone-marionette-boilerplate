@@ -75,6 +75,12 @@ gulp.task('backup', function() {
 });
 
 
+gulp.task('init', function() {
+  gulp.src('.git', {read: false}).pipe(clean());
+  console.log('Pukka!!! Your Development Environment is Ready.....');
+});
+
+
 function getDateTime() {
       var date = new Date();
       var hour = date.getHours();

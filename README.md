@@ -25,10 +25,13 @@ The easiest way to get started is to install Git and clone the repository:
 > mkdir projectfolder
 # CD into your project folder.
 > cd projectfolder
-# Colne it from github repository.
+# Clone it from github repository.
 > git clone https://github.com/aCreativeDesign/backbone-marionette-boilerplate
 
+# And finaly.
+> gulp init
 ```
+
 *If your not familiar with command line you can always download as zip from github. and change the folder name to your project name.* 
 
 ## Folder structure ##
