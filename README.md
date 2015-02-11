@@ -79,3 +79,5 @@ $ gulp backup
 # Backup your development folders into your own path
 $ gulp backup --path ../your/file/path
 ```
+
+Note :  if you don't want to have git repostory in your project make visible hidden files and delete .git folder.
