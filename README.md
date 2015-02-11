@@ -58,7 +58,7 @@ The easiest way to get started is to install Git and clone the repository:
 
 **Client-brief folder**  will have all your UI files such as Adobe Photoshop, InDesign. and maybe clients email...
 
-**Development folder**  will have all your development source files. ( heart of your project ).
+**Development folder**  will have all your development source files. ( heart of your project ). If your thinking of using Git (to track your changes)in your project then make a *git init* inside your development folder.
 
 **Dist folder**  Minifyed final product folder and also gulp.js runs as server under *localhost:8888* will pointed into dist folder and it will reload on file change / watch. 
 
