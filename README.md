@@ -23,8 +23,10 @@ The easiest way to get started is to install Git and clone the repository:
 ``` bash
 # Create your project folder.
 > mkdir projectfolder
+
 # CD into your project folder.
 > cd projectfolder
+
 # Clone it from github repository.
 > git clone https://github.com/aCreativeDesign/backbone-marionette-boilerplate
 
