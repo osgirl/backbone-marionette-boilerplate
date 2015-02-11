@@ -25,7 +25,7 @@ The easiest way to get started is to install Git and clone the repository:
 git clone --depth 1 https://github.com/aCreativeDesign/backbone-marionette-boilerplate
 # Move the repository to your own project name.
 ```
-*If your not familiar with command line you can always download as zip from github. and change the folder name to you project name.* 
+*If your not familiar with command line you can always download as zip from github. and change the folder name to your project name.* 
 
 ## Folder structure ##
 
@@ -49,7 +49,7 @@ $ gulp backup
 
 **Client-brief folder**  will have all your UI files such as Adobe Photoshop, InDesign. and maybe clients email...
 
-**Development folder**  will have all your development source files. ( hart of your project ).
+**Development folder**  will have all your development source files. ( heart of your project ).
 
 **Dist folder**  Minifyed final product folder and also gulp.js runs as server under *localhost:8888* will pointed into dist folder and it will reload on file change / watch. 
 
