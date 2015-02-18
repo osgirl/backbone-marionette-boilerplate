@@ -14,7 +14,6 @@ modernizr.js , text.js ( underscore template engine ), Backbone.SharePoint OData
 ## Requirement : ##
 
  - **Node.js** installed in your computer if not install from http://nodejs.org/download/
- - **gulp.js** task runner https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md
 
 
 ## Getting started ##
@@ -29,6 +28,10 @@ The easiest way to get started is to install Git and clone the repository:
 
 # Clone it from github repository.
 > git clone https://github.com/aCreativeDesign/backbone-marionette-boilerplate
+
+# Installing dependencies
+# CD into the folder and run following command.
+> npm install
 
 # And finaly.
 > gulp init
@@ -81,7 +84,12 @@ to optimize your application.
 # To run the build process, cd into the project folder root and run.
 # It will run server under localhost:8888
 > gulp
+```
 
+## Other Commands and features ##
+Some commands and features can be find here.
+
+``` bash
 # Backup your development folders 
 > gulp backup
 
