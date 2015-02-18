@@ -1,0 +1,14 @@
+{
+  "name" : "backbone-marionette-boilerplate",
+  "version" : "1.0.0",
+  "repository": "aCreativeDesign/backbone-marionette-boilerplate",
+  "dependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-less": "*",
+    "gulp-shell": "*",
+    "gulp-livereload" : "*",
+    "gulp-connect":"*"
+  },
+  "main": "gulpfile.js"
+}
