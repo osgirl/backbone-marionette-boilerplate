@@ -3,7 +3,7 @@
   "version" : "1.0.0",
   "repository": {
     "type": "git",
-    "aCreativeDesign/backbone-marionette-boilerplate"
+    "url": "https://github.com/aCreativeDesign/backbone-marionette-boilerplate.git"
   },
   "dependencies": {
     "gulp": "*",
