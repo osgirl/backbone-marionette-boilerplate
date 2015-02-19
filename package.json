@@ -1,7 +1,10 @@
 {
   "name" : "backbone-marionette-boilerplate",
   "version" : "1.0.0",
-  "repository": "aCreativeDesign/backbone-marionette-boilerplate",
+  "repository": {
+    "type": "git",
+    "aCreativeDesign/backbone-marionette-boilerplate"
+  },
   "dependencies": {
     "gulp": "*",
     "gulp-clean": "*",
